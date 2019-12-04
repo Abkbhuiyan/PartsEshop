@@ -1,0 +1,19 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN PANEL LOGIN:
+
+>> NOTE : (for admin panel, login from the user's login)
+>>Enter the following details in Login for Admin Panel.
+
+Admin
+
+Username: shaharuf@yahoo.com
+Password: 123abc
+
+USER LOGIN:
+
+Username: shaharufs@gmail.com
+Password: 123abc
+
+DON'T FORGET TO CREATE A DATABASE NAMING "partseshop" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
